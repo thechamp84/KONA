@@ -1,0 +1,11 @@
+.makeStyles-content-10{
+    background-color: white;
+}
+body{
+    background-color: rgb(80, 80, 80);
+}
+
+
+.MuiDropzoneArea-root{
+    min-height: 50px;
+}
